@@ -1,5 +1,5 @@
 ---
-title: "Análisis de datos"
+title: "Análisis de datos para github pages"
 subtitle: "Taller Introducción a Quarto y Github"
 author: "Equipo EDUMER"
 date: today
